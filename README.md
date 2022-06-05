@@ -10,4 +10,4 @@ Anyone can install and host an instance of SimOps and start a virtual airline. R
 
 ### **WARNING: FLIGHT SIMULATOR USE ONLY**
 
-SimOps is designed for use with PC-based flight simulation software. It is not designed for neither certified for real-world usage and such usage is expressly forbidden.
+SimOps is designed for use with PC-based flight simulation software. It is not designed for, neither certified for real-world usage and such usage is expressly forbidden.
