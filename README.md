@@ -8,6 +8,6 @@ SimOps is a set of tools that allow you to manage a virtual airline for use with
 Anyone can install and host an instance of SimOps and start a virtual airline. Requirements for self-hosting will be documented in an installation guide, to be made available at a future date.
 
 
-### **WARNING: FLIGHT SIMULATOR USE ONLY**
+### **_WARNING: FLIGHT SIMULATOR USE ONLY_**
 
-SimOps is designed for use with PC-based flight simulation software. It is not designed for, neither certified for real-world usage and such usage is expressly forbidden.
+SimOps is designed for use with PC-based flight simulation software. It is not designed for, nor certified for real-world usage and such usage is expressly forbidden.
