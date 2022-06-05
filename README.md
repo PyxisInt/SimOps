@@ -9,7 +9,7 @@ Anyone can install and host an instance of SimOps and start a virtual airline. R
 
 ## Components
 
-* SimOpsService - The primary backend for SimOps
+* [SimOpsService](https://github.com/PyxisInt/SimOpsService) - The primary backend for SimOps
 * SimOps - The desktop client for Windows 10/11
 * SimOpsWeb - The web-based client
 * SimCARS - The Windows 10/11 based ACARS client
