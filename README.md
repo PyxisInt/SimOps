@@ -7,7 +7,20 @@ SimOps is a set of tools that allow you to manage a virtual airline for use with
 
 Anyone can install and host an instance of SimOps and start a virtual airline. Requirements for self-hosting will be documented in an installation guide, to be made available at a future date.
 
+## Components
 
-### **_WARNING: FLIGHT SIMULATOR USE ONLY_**
+* SimOpsService - The primary backend for SimOps
+* SimOps - The desktop client for Windows 10/11
+* SimOpsWeb - The web-based client
+* SimCARS - The Windows 10/11 based ACARS client
+
+
+### CREDITS
+
+* Pete & John Dowson for FSUIPC
+* Torsten Spiering for XUIPC
+* Paul Henty for FSUIPC Client for .NET
+
+#### **_WARNING: FLIGHT SIMULATOR USE ONLY_**
 
 SimOps is designed for use with PC-based flight simulation software. It is not designed for, nor certified for real-world usage and such usage is expressly forbidden.
