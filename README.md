@@ -14,6 +14,9 @@ Anyone can install and host an instance of SimOps and start a virtual airline. R
 * [SimOpsWeb](https://github.com/PyxisInt/SimOpsWeb) - The web-based client
 * [SimCARS](https://github.com/PyxisInt/SimCARS) - The Windows 10/11 based ACARS client
 
+## How to use
+
+The best way to use SimOps for your virtual airline needs is to install all the components in your own infrastructure. This can be a cloud based infrastructure or a on-premise infrastructure. For details on how to install and any pre-requisites, please refer to the [Installation Guide](/install.md)
 
 ### CREDITS
 
